@@ -12,4 +12,4 @@ I'm in college finishing my graduation in Centro Universitário Cruzeiro do Sul 
 - :mailbox: How to reach me.
 
     [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinniegalli)](https://github.com/vinniegalli)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/vinicius-galli-99386ba3)](https://www.linkedin.com/mwlite/in/vinicius-galli-99386ba3)
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-galli-99386ba3)](https://www.linkedin.com/in/vinicius-galli-99386ba3)
