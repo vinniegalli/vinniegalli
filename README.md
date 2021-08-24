@@ -15,4 +15,4 @@ I'm in college finishing my graduation in Centro Universitário Cruzeiro do Sul 
 
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-galli-99386ba3)](https://www.linkedin.com/in/vinicius-galli-99386ba3)
 
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vinniegalli@gmail.com?subject=Contato)](mailto:vinniegalli@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vinniegalli@gmail.com?subject=Contato)](mailto:vinniegalli@gmail.com?subject=Contato)
