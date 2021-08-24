@@ -3,14 +3,14 @@
 # :wave: Hello World ! :earth_americas:
 ### I’m Vinicius Galli
 
-I'm in college finishing my graduation in Centro Universitário Cruzeiro do Sul :books:
+Finishing my graduation in Análise e desenvolvimento de sistemas at Centro Universitário Cruzeiro do Sul :books:
 
 :house_with_garden: Living in Brazil.
 
 :outbox_tray: 2021 Goals: create a new project and become a Full Stack developer.
 
-- :rocket: I'm currently developing a Pet Shop system.
-- :rocket: I'm learning more about HTML, CSS and JS.
+- :rocket: Developing a Pet Shop system.
+- :rocket: Learning more about HTML, CSS and JS.
 - :rocket: Always interested in new tecnologies and projects.
 
 ## Languages and tools:
