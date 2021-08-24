@@ -12,5 +12,7 @@ I'm in college finishing my graduation in Centro Universitário Cruzeiro do Sul 
 - :mailbox: How to reach me.
 
     [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinniegalli)](https://github.com/vinniegalli)
+
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-galli-99386ba3)](https://www.linkedin.com/in/vinicius-galli-99386ba3)
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=< a href="mailto: vinniegalli@gmail.com"></a>)](mailto: vinniegalli@gmail.com)
+
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vinniegalli@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)](mailto:vinniegalli@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
