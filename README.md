@@ -3,7 +3,7 @@
 # :wave: Hello World ! :earth_americas:
 ### I’m Vinicius Galli
 
-Finishing my graduation in Análise e desenvolvimento de sistemas at Centro Universitário Cruzeiro do Sul :books:
+Finishing my graduation in analysis and system development at Centro Universitário Cruzeiro do Sul :books:
 
 :house_with_garden: Living in Brazil.
 
