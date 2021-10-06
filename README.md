@@ -7,12 +7,6 @@ Finishing my graduation in analysis and system development at Centro Universitá
 
 :house_with_garden: Living in Brazil.
 
-:outbox_tray: 2021 Goals: create a new project and become a Full Stack developer.
-
-- :rocket: Developing a Pet Shop system.
-- :rocket: Learning more about HTML, CSS and JS.
-- :rocket: Always interested in new tecnologies and projects.
-
 ## Languages and tools:
 
 ![vinniegalli stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinniegalli)
