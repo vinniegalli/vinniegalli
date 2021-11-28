@@ -1,24 +1,30 @@
 
 
-# :wave: Hello World ! :earth_americas:
-### I’m Vinicius Galli
-
-Finishing my graduation in analysis and system development at Centro Universitário Cruzeiro do Sul :books:
-
-:house_with_garden: Living in Brazil.
-
-## Languages and tools:
-
-![vinniegalli stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinniegalli)
+# :wave: Hello World, I’m Vinicius Galli !
 
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div>
+  <p> Languages and tools:</p>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinniegalli&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinniegalli&theme=blue-green"/>
+  
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="vinniegalli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vinniegalli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="vinniegalli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ## :mailbox: How to reach me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinniegalli)](https://github.com/vinniegalli)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-galli-99386ba3)](https://www.linkedin.com/in/vinicius-galli-99386ba3)
+<div> 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vinniegalli@gmail.com?subject=Contato)](mailto:vinniegalli@gmail.com?subject=Contato)
+  <a href="https://instagram.com/vinniegalli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinniegalli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-galli-99386ba3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="github.com/vinniegalli"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ 
+  ![Snake animation](https://github.com/vinniegalli/vinniegalli/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
