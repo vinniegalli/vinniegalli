@@ -28,3 +28,10 @@
   ![Snake animation](https://github.com/vinniegalli/vinniegalli/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
+
+ ### Here is a random joke to make you laugh !
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
