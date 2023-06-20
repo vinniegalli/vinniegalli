@@ -11,6 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="vinniegalli-Js" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="vinniegalli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vinniegalli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vinniegalli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,10 +29,5 @@
   ![Snake animation](https://github.com/vinniegalli/vinniegalli/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-##
-
- ### Here is a random joke to make you laugh !
- ![Jokes Card](https://readme-jokes.vercel.app/api)
  
  
